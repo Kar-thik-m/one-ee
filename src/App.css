@@ -1,0 +1,56 @@
+.container {
+  background-color: rgb(135, 228, 228);
+  margin-top: 20vh;
+  display: flex;
+
+
+
+}
+
+.card1 {
+  background-color: aliceblue;
+  margin-left: 40px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-radius: 5%;
+}
+
+.card2 {
+  background-color: aliceblue;
+  margin-left: 40px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-radius: 5%;
+}
+
+.card3 {
+  background-color: aliceblue;
+  margin-left: 40px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-radius: 5%;
+
+}
+
+.btn {
+  text-align: center;
+  margin-left: 25px;
+  font-weight: bold;
+  font-size: 80%;
+  border-radius: 5rem;
+  width: 70%;
+
+
+}
+
+.card1:hover .btn {
+  opacity: 2;
+}
+
+.card2:hover .btn {
+  opacity: 2;
+}
+
+.card3:hover .btn {
+  opacity: 2;
+}
